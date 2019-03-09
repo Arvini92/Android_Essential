@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello from android!</string>
+    <string name="action_settings">Settings</string>
+    <string name="this_is_my_custom_text">This is my custom text!</string>
+    <string name="first_name_promt">First name:</string>
+    <string name="button">Button</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="title_activity_about">About H+ Sport</string>
+    <string name="about_headline">Company History</string>
+    <string name="about_text">In 2006 founder Henry</string>
+    <string name="todo">TODO</string>
+    <string name="web">web</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

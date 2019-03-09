@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="clothing">
+       <item>Cross-back traning tank</item>
+       <item>Stretchy dance pants</item>
+   </string-array>
+</resources>
